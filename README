@@ -1,0 +1,17 @@
+Welcome to the more or less pointless readme file. As you can tell, this program is still in its infancy, and not quite up to "release" level yet. Now, as the program tells you in the about/help section, I can be reached via IRC at the server and channel listed. For convenience I'll provide them here as well:
+{
+IRC.Newnet.net:6667
+#Brakmarianrose
+}
+For the most part, there shouldn't be any bugs in the program aside from the obvious lack of buttons on certain windows. If in the process of tinkering with the program you find bugs, please report them to me. If the source of the bugs are a result of you running a 64bit OS or non-windows OS, I apologize, the compiler used to create it compiled for a 32bit target OS. Let me know about it and I'll try to get a compiled version that you can use uploaded. Additionally, I may forget to upload the most current version to Github as well, in which case it may be found on mediafire. I'll be looking into a way to have that set public (or removed if it's not allowed to have multiple share locations).
+
+And.... that's the end of the readme.
+
+
+
+
+
+
+
+
+(Obligatory "Hello world")
