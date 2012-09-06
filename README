@@ -6,7 +6,11 @@ IRC.Newnet.net:6667
 For the most part, there shouldn't be any bugs in the program aside from the obvious lack of buttons on certain windows. If in the process of tinkering with the program you find bugs, please report them to me. If the source of the bugs are a result of you running a 64bit OS or non-windows OS, I apologize, the compiler used to create it compiled for a 32bit target OS. Let me know about it and I'll try to get a compiled version that you can use uploaded. Additionally, I may forget to upload the most current version to Github as well, in which case it may be found on mediafire. I'll be looking into a way to have that set public (or removed if it's not allowed to have multiple share locations).
 
 And.... that's the end of the readme.
+**Addendum:
 
+**calc.pl is the source code for this program, incomplete as of yet, but the large majority of the script remaining is simply a lot of typing. If someone's got an idea on how to help streamline what the script does, I'm all ears (or eyes).
+
+**calculator.rar is the distributable package version of the script above. Currently it is compiled with a trial version of PerlApp that is set to expire on 9-27-2012. I'm in the process of trying to obtain either a license or a free compiler that is just as good. The reasons for it being within an archive can be easily seen from the .bmp file in the folder. This is the image used in the program's splash screen. Right now I'm fairly clueless as to how to compile it into the program with PerlApp (or any other compiler) and still manage to be able to call for it within the script. Any help with that would be appreciated very much.
 
 
 
